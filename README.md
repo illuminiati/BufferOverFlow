@@ -1,6 +1,6 @@
 # Sync Breezer - BufferOverFlow
 
-This is a simple Buffer Overflow script witten for Sync Breezer,a vulnerable application found in TryHackMe fr beginers for practicing the Buffer Overflow Exploitaion.
+This is a simple Buffer Overflow script witten for Sync Breezer,a vulnerable application found in TryHackMe fr beginners for practicing the Buffer Overflow Exploitation.
 
 Script Order of execution
 1)Copy Skeleton
